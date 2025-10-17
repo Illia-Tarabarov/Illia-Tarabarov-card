@@ -1,6 +1,6 @@
 // --------------------------------------------------------------------------
 document.querySelector(".github").addEventListener("click", function () {
-  window.location.href = "https://github.com/tarabarovillia-svg";
+  window.location.href = "https://github.com/illia-tarabarov";
 });
 document.querySelector(".instagram").addEventListener("click", function () {
   window.location.href = "https://www.instagram.com/alkatpa3/";
