@@ -6,7 +6,7 @@ document.querySelector(".instagram").addEventListener("click", function () {
   window.location.href = "https://www.instagram.com/alkatpa3/";
 });
 document.querySelector(".threads").addEventListener("click", function () {
-  window.location.href = "https://github.com/tarabarovillia-svg/Illia-Tarabarov-card.git";
+  window.location.href = "https://www.threads.com/@alkatpa3";
 });
 document.querySelector(".linkedin").addEventListener("click", function () {
   window.location.href =
