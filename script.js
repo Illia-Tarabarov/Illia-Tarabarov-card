@@ -1,12 +1,13 @@
 // --------------------------------------------------------------------------
 document.querySelector(".github").addEventListener("click", function () {
-  window.location.href = "https://github.com/tarabarovillia-svg";
+  window.location.href = "https://github.com/Illia-Tarabarov";
 });
 document.querySelector(".instagram").addEventListener("click", function () {
   window.location.href = "https://www.instagram.com/alkatpa3/";
 });
 document.querySelector(".threads").addEventListener("click", function () {
-  window.location.href = "https://github.com/tarabarovillia-svg/Illia-Tarabarov-card.git";
+  window.location.href =
+    "https://github.com/tarabarovillia-svg/Illia-Tarabarov-card.git";
 });
 document.querySelector(".linkedin").addEventListener("click", function () {
   window.location.href =
@@ -16,6 +17,6 @@ document.querySelector(".email").addEventListener("click", function () {
   window.location.href = "mailto:tarabarov.illia@gmail.com";
 });
 document.querySelector(".tel").addEventListener("click", function () {
-  window.location.href = "tel:+420722276279";
+  window.location.href = "tel:+420770324457";
 });
 // --------------------------------------------------------------------------
