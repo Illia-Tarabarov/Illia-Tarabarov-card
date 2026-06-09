@@ -5,8 +5,8 @@ document.querySelector(".github").addEventListener("click", function () {
 document.querySelector(".instagram").addEventListener("click", function () {
   window.location.href = "https://www.instagram.com/alkatpa3/";
 });
-document.querySelector(".threads").addEventListener("click", function () {
-  window.location.href = "https://www.threads.com/@alkatpa3";
+document.querySelector(".CV").addEventListener("click", function () {
+  window.location.href = "https://illia-tarabarov.github.io/Tarabarov-CV/";
 });
 document.querySelector(".linkedin").addEventListener("click", function () {
   window.location.href =
